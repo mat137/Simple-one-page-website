@@ -1,4 +1,4 @@
 # Simple-one-page website
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/10ways.png)
 Format: ![Alt Text](url)
